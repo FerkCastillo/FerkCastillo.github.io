@@ -1,0 +1,22 @@
+
+
+h1 {font-size: 50px;
+text-align: center;
+}
+
+h2 { font-size: 25px;
+    text-align: center;
+}
+
+span{font-size: 20px;
+    color: red;
+
+}
+
+span:hover {color: royalblue;
+
+}
+
+a:hover {color: red;
+
+}
