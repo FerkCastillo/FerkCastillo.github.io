@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+.descuento { background-color: rgb(51, 211, 144);
+    width: 2056px;
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 40px;
+    font-size: 25px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {background-color: rgb(5, 76, 170);
+    color: white;
+    margin-top: 0px;
+    height: 80px;
+    width: 2056px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+    padding-left: 40px;
+    line-height: 70px;
+    box-shadow: 2px 2px 0px 2px rgb(24, 22, 22);
+    
+}
+
+.card-header { position: relative;
+    padding-top: 22px;
+
+}
+.card-body {
+    width:600px;
+    height: 240px;
+    left: 610px;
+    text-align: center;
+    padding: 40px;
+    position: relative;
+
+}
+
+.fa-heart { position: absolute;
+    color: red;
+    font-size: 40px;
+    margin-left: 720px;
+    margin-bottom: 100px;
+    margin-top: 10px;
+    z-index: 1;
+}
+
+.back {position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.back-card { position: relative;
+    border-radius: 20px 20px 0px 0px;
+    height: 300px;
+    width: 500px;
+    margin-left: 700px;
+
+}
+
+.back-super1 {background-image: url(../img/bg-batman.jpg);
+
+}
+
+.back-super2 {background-image:url(../img/bg-wonderw.jpg);
+    background-position:top;
+}
+
+.back-super3 {background-image:url(../img/bg-superman.jpg);
+}
+
+
+.perfiles { position: absolute;
+    border-radius: 300px;
+    height: 200px;
+    width: 200px;
+    margin-left: 850px;
+    margin-top: -150px;
+}
+
+.perfil-super1 {background-image: url(../img/batman.jpg);
+    
+
+}
+
+.perfil-super2 {background-image: url(../img/wonderw.jpg);}
+
+.perfil-super3 {background-image:url(../img/superman.jpg);}
+
+
+.boton { background-color: rgb(5, 76, 170);
+    border-radius: 10px;
+    height: 40px;
+    width: 180px;
+    margin-left: 46%;
+    margin-top: -5%;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: white;
+}
+
+.ver-mas {color: white;
+}
+
+
+
+footer { position: relative;   
+background-color: rgb(5, 76, 170);
+color: white;
+text-align: center;
+height: 70px;
+}
+
+.fa-plus-circle { position:sticky, relative;
+    font-size: 70px;
+    background-color: honeydew;
+    border-radius: 60px;
+    color: blue;
+    position: absolute;
+    right: 20%;
+    bottom: 15%;
+
+
+}
+
+
+.derechos { padding-top: 22px;
+
+}
+
+.github { background-image: url(../img/github.png);
+    height: 44px;
+    width: 160px;
+    margin: 4px;
+    background-size: cover;
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 45px ;
+    bottom: 2px ;
+}
+
+
+
+
+
