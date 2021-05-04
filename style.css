@@ -1,7 +1,12 @@
 
+body { background-image: url('../fondo1.jpg');
+text-align: center;
+color: royalblue;
+}
 
 h1 {font-size: 55px;
 text-align: center;
+
 }
 
 h2 { font-size: 30px;
@@ -14,10 +19,12 @@ span{font-size: 25px;
 }
 
 li { font-size: 20px;
-
+color: royalblue;
 }
 
-span:hover {color: royalblue;
+a { color: royalblue;}
+
+span:hover {color: black;
 
 }
 
